@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 #include <stdlib.h>
-#include <time.h>
+#include <time.h>        
 
 #define GRID_SIZE 5
 #define TREASURES 3
